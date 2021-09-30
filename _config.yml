@@ -4,4 +4,4 @@ title: Jay's Note
 theme: "just-the-docs"
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
