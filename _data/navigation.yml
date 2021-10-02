@@ -2,20 +2,5 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Introduce"
-    url: /about/
-  - title: "Category"
-    url: "/categories/"
-  - title: "Tags"
-    url: /tags/
 
-doc:
-  - title: "Home2"
-    url: "/"
-  - title: "Introduce2"
-    url: /about/
-  - title: "Category2"
-    url: "/categories/"
-  - title: "Tags2"
-    url: /tags/
     
