@@ -28,14 +28,15 @@
 
   a[rel="permalink"] {
     position: static;
+    color: #333;
   }
 }
 
 .archive__subtitle {
   margin: 1.414em 0 0.5em;
   padding-bottom: 0.5em;
-  font-size: $type-size-5;
-  color: $muted-text-color;
+  font-size: 14px;
+  color: #333;
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
@@ -49,6 +50,7 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-size: 16px;
 
   a[rel="permalink"]::before {
     content: '';
@@ -74,7 +76,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 13px;
 
   & + p {
     text-indent: 0;
