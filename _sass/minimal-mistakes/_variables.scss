@@ -70,7 +70,7 @@ $lighter-gray: mix(#fff, $gray, 90%) !default;
 $background-color: #fff !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
+$text-color: #333 !default; // $dark-gray
 $muted-text-color: mix(#fff, $text-color, 20%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
@@ -161,9 +161,9 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 200px !default; // 200px
+$right-sidebar-width: 300px !default; // 300px
+$right-sidebar-width-wide: 400px !default; // 400px
 
 /*
    Other

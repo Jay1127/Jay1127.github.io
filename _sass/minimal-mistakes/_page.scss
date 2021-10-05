@@ -39,12 +39,14 @@ body {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 0;
+    //padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    padding-right: 0;
+    //padding-right: $right-sidebar-width;
   }
 
   .page__inner-wrap {
@@ -116,9 +118,17 @@ body {
     font-size: 1em;
   }
 
+  ul{
+    font-size: 1em;
+    margin-block: 0px;
+    padding-inline-start: 2em;
+  }
+
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    // margin: 0 0 $indent-var;
+    margin: 0px;
+    padding: 3px 2px;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {

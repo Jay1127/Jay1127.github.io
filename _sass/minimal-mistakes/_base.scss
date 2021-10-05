@@ -126,6 +126,9 @@ blockquote {
 /* links */
 
 a {
+
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -135,6 +138,7 @@ a {
   }
 
   &:hover {
+    text-decoration: underline;
     color: $link-color-hover;
     outline: 0;
   }
@@ -153,7 +157,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: $monospace;
+  font-family: 'D2Coding' //$monospace;
 }
 
 pre {
@@ -168,7 +172,8 @@ td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: 0.8em;
-  background: $code-background-color;
+  background: rgba(135,131,120,0.15); //$code-background-color;
+  color: #EB5757;
   border-radius: $border-radius;
 
   &:before,
