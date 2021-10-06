@@ -2,7 +2,9 @@
 layout: single
 title: ".NET : 5. 동일한 네임스페이스.클래스명을 가지는 경우 구분하는 법"
 categories:
- - C#
+ - CSharp
+tags:
+ - CSharp
 ---
 
 Lib1, Lib2 어셈블리에 `동일한 네임스페이스.클래스명`을 가진 클래스가 존재한다.

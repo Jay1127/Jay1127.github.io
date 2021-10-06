@@ -2,7 +2,7 @@
 layout: single
 title: ".NET : 1. OpenFileDialog형태의 폴더 선택 Dialog 사용하는 법"
 categories:
- - C#
+ - CSharp
 ---
 
 폴더를 선택하기 위해 `FolderBrowserDialog`를 사용하면 다음과 같은 창이 뜨게 된다.

@@ -2,7 +2,7 @@
 layout: single
 title: ".NET : 2. Dialog의 Filter 설정하는 법"
 categories:
- - C#
+ - CSharp
 ---
 
 ### 사용 방법

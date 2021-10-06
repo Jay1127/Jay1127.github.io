@@ -2,7 +2,7 @@
 layout: single
 title: ".NET : 3. 빌드 이벤트(Build event)로 폴더 또는 파일 복사하기"
 categories:
- - C#
+ - CSharp
 ---
 
 ### 빌드 이벤트 스크립트(bulid event script)
