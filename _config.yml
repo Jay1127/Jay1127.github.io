@@ -161,9 +161,9 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
+# - assets/js/plugins
   - assets/js/_main.js
-  - assets/js/vendor
+#  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
@@ -227,6 +227,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
