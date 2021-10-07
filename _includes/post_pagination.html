@@ -1,14 +1,32 @@
-{% if page.previous or page.next %}
-  <nav class="pagination">
-    {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
-    {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+{% assign cat = page.categories[0] %}
+{% assign cat_list = site.categories[cat] %}
+{% for post in cat_list %}
+  {% if post.url == page.url %}
+  	{% assign prevIndex = forloop.index0 | minus: 1 %}
+  	{% assign nextIndex = forloop.index0 | plus: 1 %}
+    {% assign curr_post = cat_list[forloop.index0] %}
+  	{% if forloop.first == false %}
+  	  {% assign next_post = cat_list[prevIndex] %}
+  	{% endif %}
+  	{% if forloop.last == false %}
+  	  {% assign prev_post = cat_list[nextIndex] %}
+  	{% endif %}
+  	{% break %}
+  {% endif %}
+{% endfor %}
+
+{% if prev_post or next_post %}  
+  <nav class="pagination_prev_next">
+    <h4 style="border-top: 2px solid black; padding-top: 2em;">카테고리 내 다른 글 보러가기</h4>
+    {% if prev_post %}
+      <a href="{{ prev_post.url }}" class="pagination_prev_next--pager"
+      style="color: black; opacity: 0.7;"><span class="prev_next">이전글 &nbsp &nbsp &nbsp</span>{{ prev_post.title }}</a>
     {% endif %}
-    {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
-    {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+      <a class="pagination_prev_next--pager"
+      style="color: black; text-decoration: none;"><span class="prev_next">현재글 &nbsp &nbsp &nbsp</span>{{ curr_post.title }}</a>      
+    {% if next_post %}
+      <a href="{{ next_post.url }}" class="pagination_prev_next--pager"
+      style="color: black; opacity: 0.7;"><span class="prev_next">다음글 &nbsp &nbsp &nbsp</span>{{ next_post.title }}</a>      
     {% endif %}
   </nav>
 {% endif %}
