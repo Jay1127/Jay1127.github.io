@@ -5,7 +5,7 @@ categories:
  - CSharp
 ---
 
-### 빌드 이벤트 스크립트(bulid event script)
+## 빌드 이벤트 스크립트(bulid event script)
 
 ```
 /*
@@ -19,6 +19,6 @@ xcopy "$(SolutionDir)..\\Data\\*.*" "$(TargetDir)CopyData\\" /Y /E
 xcopy "$(SolutionDir)..\\Data" "$(TargetDir)CopyData\\" /Y /E
 ```
 
-### xcopy명령어 사용법
+## xcopy명령어 사용법
 
 ![image](https://user-images.githubusercontent.com/38006679/135956938-c4f01db2-fc24-449a-a80f-4c32a716ef20.png)

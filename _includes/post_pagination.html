@@ -18,15 +18,15 @@
 {% if prev_post or next_post %}  
   <nav class="pagination_prev_next">
     <h4 style="border-top: 2px solid black; padding-top: 2em;">카테고리 내 다른 글 보러가기</h4>
-    {% if prev_post %}
-      <a href="{{ prev_post.url }}" class="pagination_prev_next--pager"
-      style="color: black; opacity: 0.7;"><span class="prev_next">이전글 &nbsp &nbsp &nbsp</span>{{ prev_post.title }}</a>
-    {% endif %}
-      <a class="pagination_prev_next--pager"
-      style="color: black; text-decoration: none;"><span class="prev_next">현재글 &nbsp &nbsp &nbsp</span>{{ curr_post.title }}</a>      
     {% if next_post %}
       <a href="{{ next_post.url }}" class="pagination_prev_next--pager"
-      style="color: black; opacity: 0.7;"><span class="prev_next">다음글 &nbsp &nbsp &nbsp</span>{{ next_post.title }}</a>      
-    {% endif %}
+         style="color: black; opacity: 0.7;"><span class="prev_next">다음글 &nbsp &nbsp &nbsp</span>{{ next_post.title }}</a>      
+    {% endif %}  
+      <a class="pagination_prev_next--pager"
+         style="color: black; text-decoration: none;"><span class="prev_next">현재글 &nbsp &nbsp &nbsp</span>{{ curr_post.title }}</a>       
+    {% if prev_post %}
+    <a href="{{ prev_post.url }}" class="pagination_prev_next--pager"
+    style="color: black; opacity: 0.7;"><span class="prev_next">이전글 &nbsp &nbsp &nbsp</span>{{ prev_post.title }}</a>
+  {% endif %}
   </nav>
 {% endif %}

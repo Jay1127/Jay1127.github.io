@@ -17,7 +17,7 @@ categories:
 
 
 
-### 설치 방법
+## 설치 방법
 
 `CommonOpenFileDialog`를 사용하려면 다음 dll파일이 필요하며, Nuget을 이용해 설치할 수 있다.
 
@@ -30,7 +30,7 @@ Install-Package WindowsAPICodePack-Shell
 
 
 
-### 사용 방법
+## 사용 방법
 
 ```csharp
 using (var dialog = new CommonOpenFileDialog())
