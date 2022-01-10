@@ -17,7 +17,7 @@ categories:
 </ListBox>
 ```
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23604243-28a3-4844-9195-483400065fa3/_2020_05_06_16_58_58_863.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220106T234345Z&X-Amz-Expires=86400&X-Amz-Signature=48c8cb6b6600d465e61ccaa79ac9d349bf628f42f5db85edd5348364590da8d9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2020_05_06_16_58_58_863.gif%22&x-id=GetObject){: .align-center}
+![_2020_05_06_16_58_58_863](https://user-images.githubusercontent.com/38006679/148853549-bc0eaa3a-5ab2-4a59-a61f-16297f1b05c9.gif){: .align-center}
 
 
 ### 해결 방법
@@ -119,4 +119,4 @@ public class SelectionService
 
 `CheckBox`가 선택되면 `ListBoxItem`도 동시에 선택되는 것을 확인할 수 있다.
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66f2d8-5050-4a18-8879-9e9308f1dd67/_2020_05_06_16_59_41_973.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220106T234215Z&X-Amz-Expires=86400&X-Amz-Signature=7072fc73c339545a796300c28fbda50428cceb60ea4f932459669ed1996047ba&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2020_05_06_16_59_41_973.gif%22&x-id=GetObject){: .align-center}
+![_2020_05_06_16_59_41_973](https://user-images.githubusercontent.com/38006679/148853586-2b0bfd8f-1aac-45b2-bcd4-b4b396b62cbd.gif){: .align-center}

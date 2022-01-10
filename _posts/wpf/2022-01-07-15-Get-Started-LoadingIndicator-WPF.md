@@ -90,4 +90,4 @@ Install-Package LoadingIndicators.WPF -Version 0.0.1
                      Style="{DynamicResource LoadingIndicatorWaveStyle}" />
 ```
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ee3f8620-8819-41f0-a18d-35d893aa4abf/image.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220106T235541Z&X-Amz-Expires=86400&X-Amz-Signature=92f527659de60cc5d342a55d0dbb671fe47ccbb649528331cba3d321e6582421&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22image.gif%22&x-id=GetObject){: .align-center}
+![image](https://user-images.githubusercontent.com/38006679/148853415-b18d7df8-9c33-49eb-b790-83fca00874e3.gif){: .align-center}
