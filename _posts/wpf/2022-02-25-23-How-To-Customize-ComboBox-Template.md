@@ -4,6 +4,9 @@ title: "WPF : 23. ComboBox 커스터마이징(Template)"
 categories:
  - WPF
 ---
+
+## ComboBox Template 정의
+
 `Combobox`의 `Template`을 정의하여 외형을 변경할 수 있으며, 아래의 `Control`로 `Template`을 구성한다.
 
 - 선택된 아이템 표시 영역(`ContentPresenter`)
