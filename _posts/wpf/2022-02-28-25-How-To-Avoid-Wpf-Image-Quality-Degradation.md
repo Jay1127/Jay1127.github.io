@@ -5,7 +5,7 @@ categories:
  - WPF
 ---
 
-WPF에서 이미지를 컨트롤의 크기에 맞게 조절하면서, 품질이 저하되는 경우가 발생한다. 이 경우`RenderOptions.BitmapScalingMode`속성을 값을 변경하여, 품질 저하를 방지할 수 있다.
+WPF에서 이미지를 컨트롤의 크기에 맞게 조절하면서, 품질이 저하되는 경우가 발생한다. 이 경우 `RenderOptions.BitmapScalingMode`속성을 값을 변경하여, 품질 저하를 방지할 수 있다.
 
 ```xml
 <Image RenderOptions.BitmapScalingMode="Fant" Source="....."/>
