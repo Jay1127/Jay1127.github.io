@@ -5,10 +5,11 @@ categories:
  - WPF
 ---
 
-`IsCheckable`프로퍼티를 `True`로 설정한 경우, `MenuItem`은 `CheckBox`처럼 여러 개를 선택할 수 있다. 만약 `MenuItem`을 `RadioButton`처럼 한 개만 선택하려면, 다음과 같은 `Behavior`를 구현해주면 된다.
+`IsCheckable`프로퍼티를 `True`로 설정한 경우, `MenuItem`은 `CheckBox`처럼 동시에 여러 개의 항목을 선택할 수 있다. 만약 `MenuItem`을 `RadioButton`처럼 한 개의 항목만 선택하도록 하려면, 다음과 같은 `Behavior`를 구현해주면 된다.
 
 ## Behaivor 구현
-특정 `MenuItem`이 선택되면, 이미 선택됐던 찾아 `MenuItem`을 선택 해제하도록 구현한다.
+
+이벤트를 이용해 특정 `MenuItem`이 선택되면, 이미 선택됐던 `MenuItem`을 찾아서 선택 해제하도록 구현한다.
 
 ```csharp
 public class MenuItemMutableCheckBehavior : Behavior<MenuItem>
