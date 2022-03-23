@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Math : 3.  스칼라 삼중곱(Scalar triple product)"
+title: "Math : 4. 스칼라 삼중곱(Scalar triple product)"
 categories:
  - Math
 ---
