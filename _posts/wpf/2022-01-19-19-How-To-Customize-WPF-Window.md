@@ -101,4 +101,4 @@ private void ButtonMinimize_Click(object sender, RoutedEventArgs e)
 }
 ```
 
-![image](https://user-images.githubusercontent.com/38006679/150036979-6ee69250-d91f-45dd-8c69-582075d928ed.png)
+![image](https://user-images.githubusercontent.com/38006679/150036979-6ee69250-d91f-45dd-8c69-582075d928ed.png){: .align-center}
