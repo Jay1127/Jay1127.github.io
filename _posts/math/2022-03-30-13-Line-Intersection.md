@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Math : 13. 직선, 선분 교차점 찾기(Line intersection)"
+title: "Math : 13. 직선, 선분 교차점 찾는 법"
 categories:
  - Math
 ---
