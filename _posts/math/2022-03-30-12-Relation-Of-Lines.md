@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 12. 두 직선의 위치 관계"
+description: 두 직선의 위치 관계
 categories:
  - Math
 ---

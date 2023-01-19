@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 8. DataGridColumn의 Visibility 바인딩하는 방법"
+description: DataGridColumn의 Visibility 바인딩하는 방법
 categories:
  - WPF
 ---

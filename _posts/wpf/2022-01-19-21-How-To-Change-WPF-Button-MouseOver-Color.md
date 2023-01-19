@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 21. Button에 MouseOver시 배경색 변경하는 법"
+description: Button에 MouseOver시 배경색 변경하는 법
 categories:
  - WPF
 ---

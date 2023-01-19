@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 5. 선형 변환의 행렬 표현"
+description: 선형 변환의 행렬 표현
 categories:
  - Math
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 24. ScrollBar 커스터마이징(Template)"
+description: ScrollBar 커스터마이징(Template)
 categories:
  - WPF
 ---

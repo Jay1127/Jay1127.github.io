@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 11. 외부 프로젝트의 ResourceDictionary 참조하는 법"
+description: 외부 프로젝트의 ResourceDictionary 참조하는 법
 categories:
  - WPF
 ---

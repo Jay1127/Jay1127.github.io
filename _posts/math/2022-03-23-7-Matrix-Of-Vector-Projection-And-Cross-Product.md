@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Math : 7.  벡터의 투영과 외적의 변환 행렬 표현"
+title: "Math : 7. 벡터의 투영과 외적의 변환 행렬 표현"
+description: 벡터의 투영과 외적의 변환 행렬 표현
 categories:
  - Math
 ---

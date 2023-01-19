@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 17. TextBox에 숫자만 입력하는 법"
+description: TextBox에 숫자만 입력하는 법
 categories:
  - WPF
 ---

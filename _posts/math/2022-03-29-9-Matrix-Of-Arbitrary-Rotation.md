@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 9. 임의의 축 회전 행렬 표현"
+description: 임의의 축 회전 행렬 표현
 categories:
  - Math
 ---

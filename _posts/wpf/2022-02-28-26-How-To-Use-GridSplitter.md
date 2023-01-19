@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 26. GridSplitter 사용법"
+description: GridSplitter 사용법
 categories:
  - WPF
 ---

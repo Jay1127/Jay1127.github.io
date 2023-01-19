@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 27. ToggleButton 클릭하여 Popup 호출하는 법"
+description: ToggleButton 클릭하여 Popup 호출하는 법
 categories:
  - WPF
 ---

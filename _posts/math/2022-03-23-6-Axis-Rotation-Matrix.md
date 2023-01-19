@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 6. 좌표축 변환 행렬 유도"
+description: 좌표축 변환 행렬 유도
 categories:
  - Math
 ---

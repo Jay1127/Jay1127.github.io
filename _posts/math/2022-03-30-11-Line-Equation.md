@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 11. 직선의 방정식(Line equation)"
+description: 직선의 방정식(Line equation)
 categories:
  - Math
 ---

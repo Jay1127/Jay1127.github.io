@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 2. 벡터의 내적(Dot Product)"
+description: 벡터의 내적(Dot Product)
 categories:
  - Math
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 14. RadioButton을 ToggleButton형태로 만드는 법"
+description: RadioButton을 ToggleButton형태로 만드는 법
 categories:
  - WPF
 ---

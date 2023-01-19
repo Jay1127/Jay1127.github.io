@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 3. 벡터의 외적(Cross Product)"
+description: 벡터의 외적(Cross Product)
 categories:
  - Math
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 25. Image 품질 저하 방지"
+description: WPF Image 품질 저하 방지
 categories:
  - WPF
 ---

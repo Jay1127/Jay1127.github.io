@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ".NET : 2. Dialog의 Filter 설정하는 법"
+description: Dialog의 Filter 설정하는 법
 categories:
  - CSharp
 ---

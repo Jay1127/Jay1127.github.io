@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Graphics : 2. STL 파일 읽는 방법"
+description: STL 파일 읽는 방법
 categories:
  - Graphics
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 14. 평면의 방정식(Plane equation)"
+description: 평면의 방정식(Plane equation)
 categories:
  - Math
 ---

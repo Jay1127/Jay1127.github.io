@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 12. 여러 개의 ResourceDictionary를 한번에 참조하는 법"
+description: 여러 개의 ResourceDictionary를 한번에 참조하는 법
 categories:
  - WPF
 ---

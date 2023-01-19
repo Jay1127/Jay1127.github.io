@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 13. 직선, 선분 교차점 찾는 법"
+description: 직선, 선분 교차점 찾는 법
 categories:
  - Math
 ---

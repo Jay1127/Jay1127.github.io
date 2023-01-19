@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ".NET : 5. 동일한 네임스페이스.클래스명을 가지는 경우 구분하는 법"
+description: 동일한 네임스페이스.클래스명을 가지는 경우 구분하는 법(extern alias)
 categories:
  - CSharp
 ---

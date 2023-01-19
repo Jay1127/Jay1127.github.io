@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 22. TextBox에 워터마크(Watermark) 만드는 법"
+description: TextBox에 워터마크(Watermark) 만드는 법
 categories:
  - WPF
 ---

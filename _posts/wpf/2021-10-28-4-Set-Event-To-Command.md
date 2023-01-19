@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 4. Event를 Command로 설정하는 법"
+description: Event를 Command로 설정하는 법
 categories:
  - WPF
 ---

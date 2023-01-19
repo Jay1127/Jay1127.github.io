@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 7. DataGrid의 Row번호 매기는 법"
+description: DataGrid의 Row번호 매기는 법
 categories:
  - WPF
 ---

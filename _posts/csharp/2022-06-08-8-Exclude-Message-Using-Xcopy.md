@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ".NET : 8. xcopy로 파일 복사 시, 파일 또는 디렉터리인지 물어보는 메세지 제외하는 법"
+description: copy로 파일 복사 시, 파일 또는 디렉터리인지 물어보는 메세지 제외하는 법
 categories:
  - CSharp
 ---

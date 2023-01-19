@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ".NET : 4. internal class를 외부 어셈블리에서 사용하는 방법"
+description: internal class를 외부 어셈블리에서 사용하는 방법
 categories:
  - CSharp
 ---

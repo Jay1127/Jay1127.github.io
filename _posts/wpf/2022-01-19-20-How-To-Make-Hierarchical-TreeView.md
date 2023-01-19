@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 20. 계층구조 트리뷰(Hierarchical TreeView)"
+description: 계층구조 트리뷰(Hierarchical TreeView)
 categories:
  - WPF
 ---

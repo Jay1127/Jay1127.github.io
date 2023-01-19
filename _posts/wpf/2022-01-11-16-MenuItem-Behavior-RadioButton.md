@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 16. MenuItem을 RadioButton처럼 동작시키는 법"
+description: MenuItem을 RadioButton처럼 동작시키는 법
 categories:
  - WPF
 ---

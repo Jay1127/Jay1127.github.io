@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 10. 벡터의 내적을 통한 각도 구하기(0~360 또는 -180~180도)"
+description: 벡터의 내적을 통한 각도 구하기(0~360 또는 -180~180도)
 categories:
  - Math
 ---

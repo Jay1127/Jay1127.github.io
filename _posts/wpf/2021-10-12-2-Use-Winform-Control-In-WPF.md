@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 2. WPF에서 Winform Control을 사용하는 법"
+description: WPF에서 Winform Control을 사용하는 법
 categories:
  - WPF
 ---

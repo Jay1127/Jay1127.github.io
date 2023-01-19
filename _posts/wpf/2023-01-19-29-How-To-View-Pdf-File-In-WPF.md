@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 29. PDF 파일 보는법(PDF Viewer)"
+description: PDF 파일 보는법(WebBrowser. CefSharp)
 categories:
  - WPF
 ---

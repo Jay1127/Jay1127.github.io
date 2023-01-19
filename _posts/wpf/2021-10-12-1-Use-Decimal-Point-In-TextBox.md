@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 1. 바인딩된 TextBox에 소수점이 입력 안되는 경우 해결 방법"
+description: 바인딩된 TextBox에 소수점이 입력 안되는 경우 해결 방법(KeepTextBoxDisplaySynchronizedWithTextProperty)
 categories:
  - WPF
 ---

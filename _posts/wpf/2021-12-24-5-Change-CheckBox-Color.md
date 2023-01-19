@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 5. CheckBox의 체크 마크 색상 바꾸는 법"
+description: CheckBox의 체크 마크 색상 바꾸는 법
 categories:
  - WPF
 ---

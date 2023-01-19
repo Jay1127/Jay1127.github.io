@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 16. 평면과 직선의 교차점 찾는 법"
+description: 평면과 직선의 교차점 찾는 법
 categories:
  - Math
 ---

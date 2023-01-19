@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 15. LoadingIndicator.WPF 라이브러리 사용법"
+description: LoadingIndicator.WPF 라이브러리 사용법
 categories:
  - WPF
 ---

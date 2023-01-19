@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 10. DataTemplateSelector 사용법"
+description: DataTemplateSelector 사용법
 categories:
  - WPF
 ---

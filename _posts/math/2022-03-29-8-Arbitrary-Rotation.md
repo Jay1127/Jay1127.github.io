@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Math : 8.  임의의 축 회전 공식 유도(로드리게스 회전 공식)"
+title: "Math : 8. 임의의 축 회전 공식 유도(로드리게스 회전 공식)"
+description: 임의의 축 회전 공식 유도(로드리게스 회전 공식)
 categories:
  - Math
 ---

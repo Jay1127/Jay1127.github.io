@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 28. Style에 Behavior 설정하는 법"
+description: Style에 Behavior 설정하는 법
 categories:
  - WPF
 ---

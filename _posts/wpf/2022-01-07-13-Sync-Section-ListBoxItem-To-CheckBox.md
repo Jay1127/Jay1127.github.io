@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 13. ListBoxItem의 CheckBox와 Selection 연동하는 법"
+description: ListBoxItem의 CheckBox와 Selection 연동하는 법
 categories:
  - WPF
 ---

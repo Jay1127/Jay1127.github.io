@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ".NET : 6. Nuget Package 만드는 법"
+description: Nuget Package 만드는 법
 categories:
  - CSharp
 ---

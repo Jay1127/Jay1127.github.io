@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 9. ItemsSource에 Enum타입 바인딩하는 법"
+description: ItemsSource에 Enum타입 바인딩하는 법
 categories:
  - WPF
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Math : 15. 평면과 점 사이의 위치 관계"
+description: 평면과 점 사이의 위치 관계
 categories:
  - Math
 ---

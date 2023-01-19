@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 18. FocusVisualStyle 사용법"
+description: FocusVisualStyle 사용법
 categories:
  - WPF
 ---

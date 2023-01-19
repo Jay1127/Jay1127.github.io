@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 3. DataTemplate을 사용하여 뷰(UserControl) 스위칭하는 법"
+description: DataTemplate을 사용하여 뷰(UserControl) 스위칭하는 법
 categories:
  - WPF
 ---

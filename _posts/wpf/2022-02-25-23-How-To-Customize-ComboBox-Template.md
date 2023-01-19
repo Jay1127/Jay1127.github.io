@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 23. ComboBox 커스터마이징(Template)"
+description: ComboBox 커스터마이징(Template)
 categories:
  - WPF
 ---

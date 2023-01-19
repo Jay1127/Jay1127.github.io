@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "WPF : 6. RadioButton의 IsChecked프로퍼티와 Enum타입 바인딩하는 법"
+description: RadioButton의 IsChecked프로퍼티와 Enum타입 바인딩하는 법
 categories:
  - WPF
 ---

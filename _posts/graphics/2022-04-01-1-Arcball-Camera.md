@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Graphics : 1. 아크볼 카메라(Arcball Camera)"
+description: 아크볼 카메라(Arcball Camera)
 categories:
  - Graphics
 ---
