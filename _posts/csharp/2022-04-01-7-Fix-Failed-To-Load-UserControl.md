@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ".NET : 7. 에러메세지 - 도구 상자 항목 ‘UserControl’을 로드하지 못했습니다. 해당 항목은 도구 상자에서 제거됩니다. "
+title: ".NET : 7. Error - 도구 상자 항목 ‘UserControl’을 로드하지 못했습니다. 해당 항목은 도구 상자에서 제거됩니다. "
 description: 에러메세지 - 도구 상자 항목 ‘UserControl’을 로드하지 못했습니다. 해당 항목은 도구 상자에서 제거됩니다.
 categories:
  - CSharp
