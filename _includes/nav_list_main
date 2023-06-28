@@ -42,6 +42,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "opencascade" %}
+                        <li><a href="/categories/opencascade" class="">Opencascade ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Graphics" %}
                         <li><a href="/categories/graphics" class="">Graphics ({{category[1].size}})</a></li>
                     {% endif %}
