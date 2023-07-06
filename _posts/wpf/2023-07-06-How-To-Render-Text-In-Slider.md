@@ -87,6 +87,8 @@ public class TextRenderTickBar : TickBar
 }
 ```
 
+<br/>
+
 `Slider`의 `Template`을 정의하고, 미리 정의한 `Texts`속성에 표시할 텍스트를 바인딩한다.
 
 ```xml
