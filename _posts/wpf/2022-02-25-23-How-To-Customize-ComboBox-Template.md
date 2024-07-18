@@ -8,7 +8,7 @@ categories:
 
 ## ComboBox Template 정의
 
-`Combobox`의 `Template`은 다음과 같은 컨틀로 구성되며, 각 컨트롤의 `Template`을 변경하여 외형을 커스터마이징한다.
+`Combobox`의 `Template`은 다음과 같은 컨트롤로 구성되며, 각 컨트롤의 `Template`을 변경하여 외형을 커스터마이징한다.
 
 - 선택된 아이템 표시 영역(`ContentPresenter`)
 - 드롭다운 버튼(`ToggleButton`)
