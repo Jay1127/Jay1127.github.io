@@ -20,11 +20,11 @@ public class DataGridPasteBehavior : Behavior<DataGrid>
     {
         base.OnAttached();
 
-        CommandBinding CopyCommandBinding = new CommandBinding(
+        CommandBinding PasteCommandBinding = new CommandBinding(
             ApplicationCommands.Paste,
             PasteCommandExecuted,
             PasteCommandCanExecute);
-        AssociatedObject.CommandBindings.Add(CopyCommandBinding);
+        AssociatedObject.CommandBindings.Add(PasteCommandBinding);
     }
 
     protected override void OnDetaching()
