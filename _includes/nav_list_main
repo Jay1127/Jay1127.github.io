@@ -19,6 +19,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "AI" %}
+                        <li><a href="/categories/ai" class="">AI ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "CSharp" %}
                         <li><a href="/categories/csharp" class="">.NET(C#) ({{category[1].size}})</a></li>
                     {% endif %}
