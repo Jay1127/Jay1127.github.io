@@ -2,6 +2,7 @@
 layout: single
 title: "AI : 2. GSD(get-shit-done)를 Codex에 적용하는 법"
 description: Codex에서 GSD(get-shit-done) 설치 및 주요 명령 정리
+series_order: 2
 categories:
  - AI
 ---

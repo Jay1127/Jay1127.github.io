@@ -2,6 +2,8 @@
 layout: single
 title: "AI : 4. Superpowers를 Codex에 적용하는 법"
 description: Codex에서 Superpowers 설치 및 개발 흐름 정리
+date: 2026-04-27 09:00:00 +0900
+series_order: 4
 categories:
  - AI
 ---

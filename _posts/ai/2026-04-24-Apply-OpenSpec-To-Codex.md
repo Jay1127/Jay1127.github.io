@@ -2,6 +2,7 @@
 layout: single
 title: "AI : 3. OpenSpec을 Codex에 적용하는 법"
 description: Codex에서 OpenSpec 설치 및 주요 명령 정리
+series_order: 3
 categories:
  - AI
 ---

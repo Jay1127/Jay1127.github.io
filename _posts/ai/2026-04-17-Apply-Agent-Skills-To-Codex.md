@@ -2,6 +2,7 @@
 layout: single
 title: "AI : 1. agent-skills(addyosmani)를 Codex에 적용하는 법"
 description: Codex에서 agent-skills 설치 및 개발 흐름 정리, Harness Engineering
+series_order: 1
 categories:
  - AI
 ---
