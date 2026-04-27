@@ -55,10 +55,6 @@ Chrome DevTools MCP를 사용하려면 다음이 필요하다.
 
 7. VS Code를 다시 실행하거나 Codex 확장을 새로고침한다.
 
-여기까지 설정하면 VS Code Codex에서 Chrome DevTools MCP를 사용할 수 있다.
-
-Chrome이 실행되지 않으면 환경 변수에 `SystemRoot`와 `PROGRAMFILES`를 추가해야 할 수 있다.  
-이 경우 공식 Codex MCP 문서의 Windows 설정 예시를 확인한다.
 
 ## 자주 쓰는 옵션
 
