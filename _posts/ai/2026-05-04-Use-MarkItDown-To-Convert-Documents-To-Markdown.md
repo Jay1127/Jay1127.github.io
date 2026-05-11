@@ -156,3 +156,5 @@ MarkItDown은 문서 내용을 판단해서 다시 작성하는 AI 모델은 아
 옵션별 동작을 확인하기 위한 간단한 예제는 다음 링크에서 확인할 수 있다.
 
 [https://github.com/Jay1127/MarkItDownGui](https://github.com/Jay1127/MarkItDownGui)
+
+![MarkItDown GUI 실행 화면](/assets/images/markitdown-gui.png)
