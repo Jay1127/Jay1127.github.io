@@ -95,3 +95,6 @@ for segment in segments:
 옵션별 동작을 확인하기 위한 간단한 예제는 다음 링크에서 확인할 수 있다.
 
 [https://github.com/Jay1127/WhisperGui](https://github.com/Jay1127/WhisperGui)
+
+
+![Whisper GUI 실행 화면](/assets/images/faster-whisper-gui.png)
