@@ -70,12 +70,12 @@ Whisper CLI에서 사용할 수 있는 주요 옵션은 다음과 같다.
   변환할 음성 파일을 지정한다. 여러 파일을 한 번에 넘길 수도 있다.
 - `--model`
   사용할 Whisper 모델을 지정한다.
-  예: `tiny`, `base`, `small`, `medium`, `large`, `turbo`
+  - `tiny`, `base`, `small`, `medium`, `large`, `turbo`
 - `--model_dir`
   모델 파일을 저장할 폴더를 지정한다. 비워두면 기본 캐시 폴더를 사용한다.
 - `--device`
   실행에 사용할 장치를 지정한다.
-  예: `cpu`, `cuda`
+  - `cpu`, `cuda`
 
 ### 출력
 
@@ -83,7 +83,7 @@ Whisper CLI에서 사용할 수 있는 주요 옵션은 다음과 같다.
   출력 파일을 저장할 폴더를 지정한다.
 - `--output_format`, `-f`
   출력 형식을 지정한다.
-  예: `txt`, `vtt`, `srt`, `tsv`, `json`, `all`
+  - `txt`, `vtt`, `srt`, `tsv`, `json`, `all`
 - `--verbose`
   처리 중 진행 상황과 인식된 구간 텍스트를 출력할지 지정한다.
 
