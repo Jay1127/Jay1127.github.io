@@ -33,9 +33,6 @@ $(document).ready(function() {
           if(query.lastIndexOf(" ") != query.length-1){
             q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
           }
-          if (term != ""){
-            q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })
-          }
         })
       });
     resultdiv.empty();
